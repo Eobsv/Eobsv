@@ -10,7 +10,7 @@
 - Here, I will post my coding journey. 
 
 - 💞️ I’m looking to collaborate on Flutter projects, hackathon teams. 
-- 📫 If you'd like to reach me: D.Eobsv@gmail.com
+- 📫 If you'd like to reach me: d.eobsv@gmail.com
 
 
 
