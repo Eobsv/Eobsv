@@ -14,6 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eobsv&layout=compact)](https://github.com/Eobsv/github-readme-stats)
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Eobsv&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 <!---
 Eobsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
