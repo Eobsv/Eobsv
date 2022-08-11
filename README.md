@@ -12,8 +12,6 @@
 - 📫 If you'd like to reach me: d.eobsv@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eobsv&layout=compact)](https://github.com/Eobsv/github-readme-stats)
-
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Eobsv&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 <!---
