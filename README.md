@@ -11,8 +11,10 @@
 - 💞️ I’m looking to collaborate on Flutter/Python projects, hackathon teams. 
 - 📫 If you'd like to reach me: d.eobsv@gmail.com
 
-
+<!--- Try it once more when would have more repos
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Eobsv&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+--->
+
 
 <!---
 Eobsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
