@@ -12,7 +12,7 @@
 - 📫 If you'd like to reach me: d.eobsv@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eobsv&layout=compact)](https://github.com/Eobsv/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eobsv&layout=compact)](https://github.com/Eobsv/github-readme-stats)
 
 <!---
 Eobsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
