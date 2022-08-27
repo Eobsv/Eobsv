@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Eobsv, graduated Mechatronic student with focus on software development. I'm programming on a daily basis since 2016. My first program was a website when I was twelve years old. Right now I am focused on developing different projects within Flutter and Python.
 - 👀 I’m interested in new technologies, IT, brainteasers, almost all sort of games, crime stories and lately drums 🥁. 
-- 🌴 Lately I learnt:
-   - Practical git for absoulete beginners
-   - How to write UnitTest in C# 
+
 - 🌱 I’m currently learning:
    - Flutter for private purposes
    - Python for microcontrolers
-   - Bash commands for Linux/Mac
 
 - I programmed a lot in Matlab, C/C++ during my studies. I have created website for classes with HTML5, CSS, PHP with SQL for managing DB. I created few projects with microcontrollers such as: Arduino and EPS8266. Most challenging were programming FPGA, Cuda and OpenCL.
 
