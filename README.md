@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Eobsv, graduated Mechatronic student with focus on software development. I'm programming on a daily basis since 2016. My first program was a website when I was twelve years old. Right now I am focused on developing different projects within Python and Flutter.
+- 👋 Hi, I’m @Eobsv, graduated Mechatronic student with focus on software development -> it resulted in continuing education journey at DTU on Master of Computer Science and Engineering. I'm programming on a daily basis since 2016. My first program was a website when I was twelve years old. Right now I am focused on developing different projects within Python and Flutter.
 - 👀 I’m interested in new technologies, IT, brainteasers, almost all sort of games, crime stories and lately drums 🥁. 
 
 - 🌱 I’m currently learning:
-   - Python
-   - Flutter
+   - Python 
+   - C/C++/C#
 
 - I programmed a lot in Matlab, C/C++ during my studies. I have created website for classes with HTML5, CSS, PHP with SQL for managing DB. I created few projects with microcontrollers such as: Arduino and EPS8266. Most challenging were programming FPGA, Cuda and OpenCL. My last biggest milestone was developing mockup of a mobile application in Flutter without prior knowledge of this framework nor expierence with mobile development within only 6months. 
 
